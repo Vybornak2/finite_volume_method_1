@@ -1,6 +1,6 @@
-# __package_name__
+# Finite Volume Method 1
 
-__package_description__
+Repository dedicated to solving problems from the Finite Volume Method 1 course, studied at the Faculty of Mechanical Engineering at CTU in Prague.
 
 ## Development
 
